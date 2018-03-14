@@ -39,3 +39,5 @@ Pin 19 - A Small 3mm White LED.
 Pin 16 - A push Button switch.
 
 =================================================
+
+Pictures taken before and after soldering: https://flic.kr/s/aHsmfNqbUy
