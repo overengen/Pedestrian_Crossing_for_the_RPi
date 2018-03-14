@@ -2,10 +2,10 @@
 # "Pedestrian Crossing" v0.1 by Tiny Fruit 2018
 
 # This program is intended for use with the "Pedestrian Crossing"
-# piece of hardware designed to fit ontop of a Raspberry Pi
+# piece of hardware designed to fit ontop of a Raspberry Pi.
 
 # The "Pedestrian Crossing" was designed and intended
-# as a base for learning programming at a beginners level
+# as a base for learning programming at a beginners level.
 
 # The PCB will be available for download as well as purchase
 # additional parts and soldering is required!
@@ -25,12 +25,12 @@
 
 # Pin 16 - A push Button switch
 
-# Import some important stuff, as GPIO and time
+# Import some important stuff, such as GPIO and time
 import RPi.GPIO as GPIO
 import time
 
 # The sequence for turning on and off the buzzer and all of the LED lights
-def do_the_light_sequence():
+def do_the_light_changing_sequence():
     
     # Light up the white light and make a short beep
     GPIO.output(buzzer_pin, GPIO.HIGH)
@@ -221,7 +221,7 @@ try:
             print ("Pin", button_pin, "is LOW!")
             print ("Let's do the full light sequence!")
             
-            do_the_light_sequence()
+            do_the_light_changing_sequence()
 
         # Keep track of the number of loops made so far...
         loop_count += 1
