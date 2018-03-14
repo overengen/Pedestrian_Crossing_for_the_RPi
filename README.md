@@ -1,12 +1,11 @@
 # Pedestrian_Crossing_for_the_RPi
 =================================================
-Note: The hardware has been tested for real and found to be working according to expectations.
-But it will be redesigned in order to make it appeal better and to correct some minor design flaws.
+Note: The hardware has been tested for real and found to be working according to expectations, but it will be redesigned in order to make it appeal better and to correct some minor design flaws. This includes minor changes to the footprint of the PCB, the shape of the corners, corrections of the mounting holes. The pin layout has been changed in later revisions of the PCB, but this is easily corrected in the program by swapping out a few numbers accordingly.
 
 The tested PCB is available for download and purchase here:
 https://oshpark.com/shared_projects/wrF9XJDk
 
-A new and redesigned (but untested) verion is available here:
+A new and redesigned (but still untested) verion is available here:
 https://oshpark.com/shared_projects/uIL9j2Ex
 
 =================================================
