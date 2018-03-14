@@ -14,17 +14,13 @@ https://oshpark.com/shared_projects/uIL9j2Ex
 
 "Pedestrian Crossing" v0.1 by Tiny Fruit 2018
 
-This program is intended for use with the "Pedestrian Crossing"
-piece of hardware designed to fit ontop of a Raspberry Pi
+This program is intended for use with the "Pedestrian Crossing" piece of hardware designed to fit ontop of a Raspberry Pi.
 
-The "Pedestrian Crossing" was designed and intended
-as a base for learning programming at a beginners level
+The "Pedestrian Crossing" was designed and intended as a base for learning programming at a beginners level.
 
-The PCB will be available for download as well as purchase
-additional parts and soldering is required!
+The PCB will be available for download as well as purchase additional parts and soldering is required!
 
-The push button, the Buzzer and all the LEDs
-are connected to the GPIO as stated below!
+The push button, the Buzzer and all the LEDs are connected to the GPIO as stated below!
 
 Pin 17 - A Large 10mm Red LED.
 
