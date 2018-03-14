@@ -1,5 +1,9 @@
 # Pedestrian_Crossing_for_the_RPi
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/53657525@N00/39887407475/in/album-72157693683723184/" title="2018-03-13_08-01-30"><img src="https://farm5.staticflickr.com/4783/39887407475_24e49c6a67_z.jpg" width="640" height="360" alt="2018-03-13_08-01-30"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/53657525@N00/25910954857/in/album-72157693683723184/" title="2018-03-13_08-01-43"><img src="https://farm5.staticflickr.com/4781/25910954857_364aaf201c_z.jpg" width="640" height="360" alt="2018-03-13_08-01-43">
+  
 =================================================
 
 Note: The hardware has been tested for real and found to be working according to expectations, but it will be redesigned in order to make it appeal better and to correct some minor design flaws. This includes minor changes to the footprint of the PCB, the shape of the corners, corrections of the mounting holes. The pin layout has been changed in later revisions of the PCB, but this is easily corrected in the program by swapping out a few numbers accordingly.
