@@ -1,4 +1,4 @@
-# Pedestrian_Crossing_for_the_RPi
+# Pedestrian Crossing for the Raspberry Pi
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/53657525@N00/39887407475/in/album-72157693683723184/" title="2018-03-13_08-01-30"><img src="https://farm5.staticflickr.com/4783/39887407475_24e49c6a67_z.jpg" width="640" height="360" alt="2018-03-13_08-01-30"></a>
 
@@ -43,5 +43,3 @@ Pin 19 - A Small 3mm White LED.
 Pin 16 - A push Button switch.
 
 =================================================
-
-Pictures taken before and after soldering: https://flic.kr/s/aHsmfNqbUy
